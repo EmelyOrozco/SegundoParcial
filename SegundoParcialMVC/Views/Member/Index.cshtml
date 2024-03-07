@@ -1,0 +1,137 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Member>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lastname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Middleinitial)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Street)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StateProv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Country)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MailCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Photograph)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IssueDt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExprDt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.RegionNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CorpNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrevBalance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CurrBalance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberCode)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lastname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Middleinitial)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Street)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StateProv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Country)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MailCode)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Photograph)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IssueDt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExprDt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegionNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CorpNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrevBalance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CurrBalance)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberCode)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

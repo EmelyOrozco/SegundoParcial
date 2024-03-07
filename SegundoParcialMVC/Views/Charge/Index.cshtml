@@ -1,0 +1,77 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Charge>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ChargeNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProviderNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChargeDt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChargeAmt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatementNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChargeCode)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChargeNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProviderNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChargeDt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChargeAmt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatementNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ChargeCode)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

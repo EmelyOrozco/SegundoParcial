@@ -1,0 +1,902 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\status\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\status\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\statementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\statementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\statement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\statement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\regioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\region\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\providercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\provider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\provider\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\payment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\chargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\chargecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\member\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\corporationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\corporationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\charge\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\charge\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\corporation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\corporation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\corporation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\corporation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\credit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\credit\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\segundoparcialapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\segundoparcialapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\segundoparcialapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\segundoparcialapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\chargewide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\chargewide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\basicmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\basicmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\segundoparcialapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\segundoparcialapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\creditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\creditcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\statement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\provider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialmvc\\models\\member2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F8B2553-040E-4B3E-A423-EF3A3B87A0CB}|SegundoParcialMVC\\SegundoParcialMVC.csproj|solutionrelative:segundoparcialmvc\\models\\member2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\member2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\member2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\corporation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\corporation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\charge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|c:\\users\\orozco\\downloads\\segundoparcialmvc-master\\segundoparcialmvc-master\\segundoparcialapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EDA688-7117-4139-ACF7-78D9BF349E9D}|SegundoParcialAPI\\SegundoParcialAPI.csproj|solutionrelative:segundoparcialapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Status\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Status\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Status\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Status\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T04:14:25.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\StatusController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:12:58.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Statement\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Statement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Statement\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Statement\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T04:12:41.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StatementController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\StatementController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\StatementController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\StatementController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\StatementController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:10:47.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegionController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\RegionController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\RegionController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\RegionController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\RegionController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:06:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T18:16:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Region\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Region\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Region\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Region\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T04:10:08.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Provider\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Provider\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Provider\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Provider\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T04:03:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProviderController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\ProviderController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\ProviderController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\ProviderController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\ProviderController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:01:03.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:55:11.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\MemberController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:44:30.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChargeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\ChargeController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\ChargeController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\ChargeController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\ChargeController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:36:42.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Payment\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Payment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Payment\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Payment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:57:48.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "statement.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\statement.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\statement.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\statement.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\statement.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:44:42.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Member\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Member\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Member\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Member\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:47:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CorporationController.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\CorporationController.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Controllers\\CorporationController.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Controllers\\CorporationController.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Controllers\\CorporationController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T03:28:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Charge.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\Charge.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\Charge.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\Charge.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\Charge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:50.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T22:40:26.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Charge\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Charge\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Charge\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Charge\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:41:53.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "corporation.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\corporation.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\corporation.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\corporation.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\corporation.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Corporation\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Corporation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Corporation\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Corporation\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:33:13.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Credit\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Credit\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Credit\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Credit\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T03:35:00.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T03:01:25.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-07T02:53:42.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\Category.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:50.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SegundoParcialAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T02:36:48.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SegundoParcialAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "RelativeToolTip": "SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T21:10:58.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Program.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:37:01.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SegundoParcialAPI.http",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\SegundoParcialAPI.http",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\SegundoParcialAPI.http",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\SegundoParcialAPI.http",
+              "RelativeToolTip": "SegundoParcialAPI\\SegundoParcialAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-06T18:32:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SegundoParcialMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-06T18:16:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\appsettings.json",
+              "RelativeToolTip": "SegundoParcialAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T02:37:05.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "provider.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\provider.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\provider.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\provider.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\provider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "member.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\member.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\member.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\member.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\member.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "payment.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\payment.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\payment.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\payment.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\payment.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "status.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\status.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\status.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\status.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\status.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "region.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\region.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\region.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\region.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\region.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ChargeWide.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\ChargeWide.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\ChargeWide.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\ChargeWide.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\ChargeWide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T21:20:03.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BasicMember.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\BasicMember.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\BasicMember.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\BasicMember.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\BasicMember.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T21:19:55.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreditContext.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\CreditContext.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\CreditContext.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\CreditContext.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\CreditContext.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAowDcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:37:51.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SegundoParcialAPI",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "RelativeToolTip": "SegundoParcialAPI\\SegundoParcialAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-05T21:10:59.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Status.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Statement.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Statement.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Statement.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Statement.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Statement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Region.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Region.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Region.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Provider.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Provider.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Provider.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Provider.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Provider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Payment.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Payment.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Payment.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "member2.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\member2.cs",
+              "RelativeDocumentMoniker": "SegundoParcialMVC\\Models\\member2.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialMVC\\Models\\member2.cs",
+              "RelativeToolTip": "SegundoParcialMVC\\Models\\member2.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Member2.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Member2.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Member2.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Member2.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Member2.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Member.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Member.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Corporation.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Corporation.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Corporation.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Corporation.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Corporation.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:49.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Charge.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Charge.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Charge.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Charge.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Charge.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAxwAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:50.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SegundoParcialAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Orozco\\Downloads\\SegundoParcialMVC-master\\SegundoParcialMVC-master\\SegundoParcialAPI\\Models\\Category.cs",
+              "RelativeToolTip": "SegundoParcialAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T02:36:50.096Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

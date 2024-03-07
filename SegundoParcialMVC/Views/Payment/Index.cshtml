@@ -1,0 +1,65 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Payment>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MemberNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentDt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentAmt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatementNo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PaymentCode)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MemberNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentDt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentAmt)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatementNo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PaymentCode)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
